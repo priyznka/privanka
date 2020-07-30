@@ -7,6 +7,6 @@ My name is Priyanka, and I'm currently:
 - 📚 reading Kafka on the Shore.
 
 ------
-
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love doing crosswords! :)
+😄 Pronouns: she/her/hers
+<br>
+⚡ Fun fact: I love doing crosswords :)
