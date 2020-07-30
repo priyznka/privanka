@@ -1,13 +1,9 @@
 ### hello world 👋
 
-🎓 Current CS student @ CU Boulder
-<br>
-🌱 Learning React right now.
-<br>
-📚 Reading Kafka on the Shore.
-<br>
-😄 Pronouns: she/her/hers
-<br>
-⚡ Fun fact: I love doing crosswords! :)
+- 🎓 Current CS student @ CU Boulder
+- 🌱 Learning React right now.
+- 📚 Reading Kafka on the Shore.
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I love doing crosswords! :)
 
 ------
