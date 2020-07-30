@@ -2,11 +2,11 @@
 
 My name is Priyanka, and I'm currently:
 
-- 🎓 a CS student @ CU Boulder
-- 🌱 learning React right now.
-- 📚 reading Kafka on the Shore.
+- 🎓 a CS student at CU Boulder
+- 🌱 learning React.
+- 📚 reading Dune.
 
 ------
 😄 Pronouns: she/her/hers
 <br>
-⚡ Fun fact: I love doing crosswords :)
+⚡ Fun fact: the spice is life :)
